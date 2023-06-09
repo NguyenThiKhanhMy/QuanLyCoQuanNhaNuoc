@@ -1,6 +1,6 @@
 # QuanLyCoQuanNhaNuoc
 Ngôn ngữ sử dụng: Java  
-IDE: Netbean 8.2
+IDE: Netbean 8.2  
 How to use the program:  
 
 1. Run the program from MainForm  
